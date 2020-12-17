@@ -1,0 +1,25 @@
+.header img{
+    height:80px;
+}
+.header{
+    margin: 0 150px;
+}
+.header nav{
+    background:linear-gradient(45deg, #4289FF 0%, #07F8C3 100%);
+    line-height: 85px;
+    font-size: 20px;
+    height: 100px;
+}
+nav a{
+    text-decoration: none;
+    padding: 5px;
+    color: white;
+    margin-right: 10px;
+    margin-left: 50px;
+    text-align : right;
+}
+.logoStyle{
+    font-family: Brush Script MT , Brush Script Std , cursive;
+    font-size: 50px;
+    padding-right: 300px;
+}

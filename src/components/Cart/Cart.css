@@ -1,0 +1,15 @@
+.cartBtn{
+    background-image: linear-gradient(to right, rgb(49, 71, 85) 0%, rgb(38, 160, 218) 51%, rgb(49, 71, 85) 100%);
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    font-size:15px;
+    background-size: 200% auto;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+    border: 1px;
+   
+
+   
+}
